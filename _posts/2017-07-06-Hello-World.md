@@ -9,4 +9,4 @@ Here is some text
 
 ## This is a slightly smaller header, h2. We're writing markdown
 
-![](/images/life-expentancy.png)
+![](/images/life-expectancy)
